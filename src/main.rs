@@ -110,7 +110,7 @@ fn main() {
 
     let mut framebuffer = Framebuffer::new(framebuffer_width, framebuffer_height);
     let mut window = Window::new(
-        "Rust Graphics - Renderer Example",
+        "Grficas por Computadora Modelo 3D",
         window_width,
         window_height,
         WindowOptions::default(),

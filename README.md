@@ -4,6 +4,12 @@
 
 ---
 
+## Demostración por Gif
+
+![lab3_gif_nel](C:\Users\nel20\UVG\Graficas\Graficas_Lab3\lab3_gif_nel.gif)
+
+---
+
 ## Descripción 
 
 Este proyecto es un renderizador básico de gráficos en 3D escrito en Rust. Está diseñado para renderizar objetos 3D en una ventana interactiva, utilizando transformaciones geométricas, un framebuffer y shaders personalizados.
