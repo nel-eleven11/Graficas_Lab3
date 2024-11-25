@@ -6,7 +6,7 @@
 
 ## Demostración por Gif
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/nel-eleven11/Graficas_Lab3/blob/main/lab3_gif_nel.gif))
+![]([https://github.com/nel-eleven11/Graficas_Lab3/blob/main/lab3_gif_nel.gif]))
 
 ---
 
