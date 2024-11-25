@@ -6,7 +6,8 @@
 
 ## Demostración por Gif
 
-![]([https://github.com/nel-eleven11/Graficas_Lab3/blob/main/lab3_gif2_nel.gif])
+
+![lab3_gif2_nel](https://github.com/user-attachments/assets/0768151d-16fa-492e-bf55-7983946643da)
 
 ---
 
